@@ -1,6 +1,7 @@
 body{
-    background-color: black;
+    background-color: rgb(51, 51, 51);
     color: rgb(184, 15, 15);
+    font-family: Raleway;
 }
 
 h2{
@@ -27,4 +28,11 @@ h2{
 .botao{
     text-align: center;
 }
-
+.informacao{
+    color: azure;
+    font-size: 20px;
+    display:flow-root;
+}
+.imagem{
+    width: 20%;
+}
